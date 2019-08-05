@@ -1,0 +1,5 @@
+id,user_id,api,rate_limit
+1,user1,/api/v1/developers,5
+2,user1,/api/v1/organisation,150
+3,user2,/api/v1/developers,250
+4,user2,/api/v1/organisation,350

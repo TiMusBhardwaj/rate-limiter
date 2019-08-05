@@ -1,0 +1,1 @@
+CREATE TABLE user_api_limit AS SELECT * FROM CSVREAD('classpath:user_api_limit.csv');
