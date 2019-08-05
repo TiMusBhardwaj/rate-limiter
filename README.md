@@ -27,3 +27,7 @@ java -jar <jarname>
 
 
 
+Suggestion: 
+We can block a userid for some time if he makes many requests even after threshold is reached.
+We can can those user list in filter itself. No need check api-limiter for those users.
+Just block them for say 2-3 minutes.
